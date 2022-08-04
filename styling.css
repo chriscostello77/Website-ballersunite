@@ -1,0 +1,33 @@
+ /* style 'all paragraphs' as follows */
+ p {
+            
+    font-size: x-large;
+    margin-left: 5cm;
+    margin-right: 5cm;
+    color: black;
+}
+
+li {
+    font-size: x-large;
+    padding: 15px;
+}
+h1 {
+    font-size: xx-large;
+    padding-left: 50;
+    padding-bottom: 25;
+
+}
+
+#basketball{
+    background-color: brown;
+    padding-left: 50%;
+}
+#heading{
+    float: left;
+    font-size: 50;
+    padding-top: 10%;
+    padding-left: 50;
+}
+
+
+
